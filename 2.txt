@@ -1,2 +1,2 @@
 This is Initial 2.txt.
-Added Feature 2.
+Added Feature. Good.
